@@ -1,0 +1,9 @@
+.button__style{
+    width: 300px;
+}
+
+@media(min-width:700px){
+    .button__style{
+        margin-left: 20px;
+    }
+}
